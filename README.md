@@ -43,7 +43,7 @@ end)
 local titulo = Instance.new("TextLabel")
 titulo.Size = UDim2.new(1, 0, 0, 50)
 titulo.BackgroundTransparency = 1
-titulo.Text = "Himaru Hub V1"
+titulo.Text = "DraXz Hub V1"
 titulo.TextColor3 = Color3.fromRGB(255, 255, 255)
 titulo.TextScaled = true
 titulo.Font = Enum.Font.FredokaOne
